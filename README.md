@@ -1,10 +1,6 @@
 
 # Getting Started with Create React App
-
-# Hepsiburada benzeri react projesi - React.js project like Hepsiburada view
-
--To reach Demo, click the link - Demo için tıklayınız.
-https://app.netlify.com/sites/benevolent-sunburst-e887eb/overview
+#Hepsiburada benzeri react projesi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
