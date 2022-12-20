@@ -1,0 +1,15 @@
+.container {
+    width: 1058px;
+    margin-top: 180px;
+    margin-right: 79px;
+    margin-left: 303px;
+    height: auto;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: 472px;
+    list-style-type: none;
+    padding: 0;
+}
