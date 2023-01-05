@@ -4,7 +4,7 @@
 # Hepsiburada benzeri react projesi - React.js project like Hepsiburada view
 
 -To reach Demo, click the link - Demo için tıklayınız.
-https://app.netlify.com/sites/benevolent-sunburst-e887eb/overview
+https://benevolent-sunburst-e887eb.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
